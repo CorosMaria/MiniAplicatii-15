@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\bin\Debug\Turnuri.exe
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\bin\Debug\Turnuri.pdb
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\Turnuri.Form1.resources
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\Turnuri.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\Turnuri.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\Turnuri.exe
+D:\MARIA\Programare\Aplicatii\Turnuri\Turnuri\obj\Debug\Turnuri.pdb
